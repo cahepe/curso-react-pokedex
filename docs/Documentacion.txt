@@ -6,3 +6,11 @@
 6. instalar rutas npm i react-router-dom
 7. instalar bootstrap npm install react-bootstrap bootstrap
 8. para iconos npm i bootstrap-icons
+9. Publicar
+9.1 crear repositorio en github
+9.2 copiar opcion ...or push an existing repository from command line
+9.3 dar permisos
+9.4 git add .
+9.5 git commit -m "fecha"
+9.6 git push
+
